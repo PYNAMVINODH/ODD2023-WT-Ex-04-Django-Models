@@ -118,6 +118,9 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
+![WhatsApp Image 2023-11-22 at 13 18 23_ae174983](https://github.com/PYNAMVINODH/ODD2023-WT-Ex-04-Django-Models/assets/145742678/1769b7cb-bb36-4d97-92f3-5a0ef02ecaa2)
+
+![WhatsApp Image 2023-11-22 at 13 18 34_33f38866](https://github.com/PYNAMVINODH/ODD2023-WT-Ex-04-Django-Models/assets/145742678/8c928cb5-0beb-4873-b393-16748809af49)
 
 
 # RESULT : 
